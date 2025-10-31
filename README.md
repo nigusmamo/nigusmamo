@@ -36,5 +36,4 @@
 
 ---
 
-
 > “Consistency beats talent!”
