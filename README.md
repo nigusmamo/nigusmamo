@@ -24,4 +24,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nigusgetamamo@gmail.com)  
 
 ---
+
+### 📊 GitHub Stats
+
+![nigus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=negusmamo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negusmamo&layout=compact&theme=radical)
+
+---
+
 > “Consistency beats talent!”
