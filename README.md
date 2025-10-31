@@ -42,4 +42,6 @@
 ![Best Practices](https://img.shields.io/badge/Best%20Practices-100-green?style=flat&logo=pagespeed&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-100-green?style=flat&logo=pagespeed&logoColor=white)
 
+---
+
 > “Consistency beats talent!”
