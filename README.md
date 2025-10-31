@@ -25,4 +25,16 @@
 
 ---
 
+### 🏆 Featured Projects
+
+| Project | Description | Tech Used |
+|----------|--------------|-----------|
+| 🧮 **GUI Calculator** | A simple, user-friendly calculator app with a Python GUI | Python (Tkinter) |
+| 🚗 **Car Rental System** | Database-driven app for managing car rentals and returns | C++, PostgressSQL |
+| 👤 **Contact Management System** | DSA-based system for storing and managing contacts | C++ (Linked List, File Handling) |
+| 🎯 **YouTube Typing Trainer** | Web app to improve typing speed and accuracy by capturing YouTube caption | JavaScript, PostgreSQL |
+
+---
+
+
 > “Consistency beats talent!”
