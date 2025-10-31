@@ -4,7 +4,7 @@
 💻 Currently exploring **Full-Stack Development**.  
 
 ---
-## 🚀 Mastered technologies and topics
+## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -17,3 +17,11 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 📫 Connect with me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NigusMamo06)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nigusgetamamo@gmail.com)  
+
+---
+> “Consistency beats talent!”
