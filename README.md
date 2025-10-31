@@ -35,5 +35,11 @@
 | 🎯 **YouTube Typing Trainer** | Web app to improve typing speed and accuracy by capturing YouTube caption | JavaScript, PostgreSQL |
 
 ---
+### 📈 PageSpeed Insights
+
+**https:https://github.com/nigusmamo/nigusmamo.github.io** ![Performance](https://img.shields.io/badge/Performance-68-green?style=flat&logo=pagespeed&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-96-green?style=flat&logo=pagespeed&logoColor=white)
+![Best Practices](https://img.shields.io/badge/Best%20Practices-100-green?style=flat&logo=pagespeed&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-100-green?style=flat&logo=pagespeed&logoColor=white)
 
 > “Consistency beats talent!”
