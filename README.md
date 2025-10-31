@@ -18,10 +18,10 @@
 
 ---
 
-## 📫 Connect with me
+### 📊 GitHub Stats
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MamoNigus06)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nigusgetamamo@gmail.com)  
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&theme=radical)
 
 ---
 
