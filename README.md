@@ -1,4 +1,4 @@
-  # 👋 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐓𝐞𝐦𝐞𝐬𝐠𝐞𝐧 𝐆𝐞𝐭𝐚
+  #  𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐓𝐞𝐦𝐞𝐬𝐠𝐞𝐧 𝐆𝐞𝐭𝐚
 
 🎓 A passionate Computer Science student.  
 💻 Currently exploring **Full-Stack Development**.  
