@@ -21,7 +21,8 @@
 ### 📊 GitHub Stats
 
 ![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99)
+
 
 ---
 
