@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=merko)
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&theme=vue-dark)
 
 ---
