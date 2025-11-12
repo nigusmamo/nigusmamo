@@ -1,4 +1,8 @@
   #  𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐓𝐞𝐦𝐞𝐬𝐠𝐞𝐧 𝐆𝐞𝐭𝐚
+  
+<h1 align="center">
+  Hi, I'm <span style="color:#3498db;">Temesgen</span> 👋
+</h1>
 
 🎓 A passionate Computer Science student.  
 💻 Currently exploring **Full-Stack Development**.  
