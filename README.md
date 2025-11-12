@@ -107,3 +107,109 @@
 ---
 
 > “Consistency beats talent!”
+
+
+
+
+
+<h1 align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hello%2520there!-Welcome%2520to%2520my%2520profile%2521-25A65E%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="Welcome Banner"/>
+</h1>
+
+<h2 align="center">
+👋 I'm <img src="https://www.google.com/search?q=https://img.shields.io/badge/Thomas-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Thomas Badge"/>, a Computer Science Student.
+</h2>
+
+<p align="center">
+🎓 A passionate Computer Science 3rd Year Student currently diving into Full-Stack Development.
+</p>
+
+🚀 My GitHub Metrics Dashboard
+
+<!--
+The entire dashboard you saw in the example (3D calendar, activity graphs,
+mastered technologies, etc.) is generated here by the GitHub Metrics Action.
+You must set up the action (explained below) for this image to appear!
+-->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/nigusmamo/nigusmamo/main/github-metrics.svg" alt="Thomas's Detailed GitHub Metrics" width="100%" />
+</p>
+
+🛠️ Skills & Tools Mastery
+
+Category
+
+Tools
+
+Languages
+
+
+
+Database
+
+
+
+Tools/VCS
+
+
+
+🏆 Featured Projects
+
+Project
+
+Description
+
+Tech Used
+
+🧮 GUI Calculator
+
+A simple, user-friendly calculator app with a Python GUI
+
+Python (Tkinter)
+
+🚗 Car Rental System
+
+Database-driven app for managing car rentals and returns
+
+C++, PostgressSQL
+
+👤 Contact Management System
+
+DSA-based system for storing and managing contacts
+
+C++ (Linked List, File Handling)
+
+🎯 YouTube Typing Trainer
+
+Web app to improve typing speed and accuracy by capturing YouTube captions
+
+JavaScript, PostgreSQL
+
+⚡️ Site Performance Metrics
+
+GitHub Pages Link: https://github.com/nigusmamo/nigusmamo.github.io
+
+Metric
+
+Badge
+
+Performance
+
+
+
+Accessibility
+
+
+
+Best Practices
+
+
+
+SEO
+
+
+
+<p align="center">
+<i align="center">“Consistency beats talent!”</i>
+</p>
