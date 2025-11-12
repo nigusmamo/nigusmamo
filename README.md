@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Temesgen Geta+👋" alt="Hello, I'm Temesgen Geta" />
-</p>
+<h1 align="center">
+  Hello, I'm <span style="color:#007bff;">Temesgen Geta</span> 👋
+</h1>
 
 
 🎓 A passionate Computer Science student.  
