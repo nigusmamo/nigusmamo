@@ -2,10 +2,6 @@
   Hello, I'm <span style="color:#007bff;">Temesgen Geta</span> 👋
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nigusmamo/nigusmamo/main/banner.png" alt="Hello, I'm Temesgen Geta" width="100%" />
-</p>
-
 🎓 A passionate Computer Science student.  
 💻 Currently exploring **Full-Stack Development**.  
 
@@ -30,6 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=vue-dark&hide_border=true&title_color=00FF99&icon_color=00FF99" alt="Thomas's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99&hide_border=true" alt="Top Langs" />
+  ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=vue-dark&hide_border=true)<br/>
 </p>
 
 
