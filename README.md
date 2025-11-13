@@ -2,6 +2,9 @@
   Hello, I'm <span style="color:#007bff;">Temesgen Geta</span> 👋
 </h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nigusmamo/nigusmamo/main/banner.png" alt="Hello, I'm Temesgen Geta" width="100%" />
+</p>
 
 🎓 A passionate Computer Science student.  
 💻 Currently exploring **Full-Stack Development**.  
