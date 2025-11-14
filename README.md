@@ -1,7 +1,6 @@
 <P align="center">
   <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/banner.jpg" width="100%">
-</P>
-🎓 A passionate Computer Science student.  
+</P> 
 💻 Currently exploring **Full-Stack Development**.  
 
 ---
