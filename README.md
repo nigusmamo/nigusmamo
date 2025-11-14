@@ -25,7 +25,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&title_color=00FF99&icon_color=00FF99"&count_private=true alt="Thomas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=neon&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99&hide_border=true" alt="Top Langs" />
 </p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)<br/>
