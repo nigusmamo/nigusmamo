@@ -1,5 +1,5 @@
 <P align="center">
-  <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/github-header-banner.png" width="100%">
+  <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/banner.jpg" width="100%">
 </P>
 🎓 A passionate Computer Science student.  
 💻 Currently exploring **Full-Stack Development**.  
