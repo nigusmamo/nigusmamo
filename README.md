@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm <span style="color:#007bff;">Temesgen Geta</span> 👋
+  [Hello, I'm <span style="color:#007bff;">Temesgen Geta</span> �](https://github.com/nigusmamo/nigusmamo/blob/main/github-header-banner.png)�
 </h1>
 
 🎓 A passionate Computer Science student.  
