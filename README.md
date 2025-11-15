@@ -28,6 +28,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)<br/>
 </p>
 
+## 📊 Most Used Languages
+
+<a href="https://github.com/nigusmamo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&langs_count=10&theme=radical" />
+</a>
 
 
 
