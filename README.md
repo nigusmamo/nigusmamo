@@ -24,15 +24,15 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=neon&hide_border=true&life_time_commits=true&include_all_commits=true&title_color=00FF99&icon_color=00FF99"&count_private=true alt="Thomas's GitHub Stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99&hide_border=true" alt="Top Langs" />
-  
+
+<a href="https://github.com/nigusmamo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&hide_border=true&layout=compact&langs_count=10&theme=radical" />
+</a>
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)<br/>
 </p>
 
-## 📊 Most Used Languages
-
-<a href="https://github.com/nigusmamo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&langs_count=10&theme=radical" />
-</a>
 
 
 
