@@ -4,7 +4,7 @@
 💻 Currently exploring **Full-Stack Development**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=00FF88&center=false&vCenter=true&width=650&height=70&lines=👋+Hello%2C+I+am+Temesgen+Geta;💻+A+Computer+Science+Student;🚀+Full+Stack+Development+Explorer;🔥+Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00FF88&center=false&vCenter=true&width=700&height=70&cursor=true&lines=👋+Hello%2C+I+am+Temesgen+Geta;💻+A+Computer+Science+Student;🚀+Full+Stack+Development+Explorer;🔥+Always+Learning+%26+Building" />
 </p>
 
 
