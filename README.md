@@ -4,16 +4,10 @@
 💻 Currently exploring **Full-Stack Development**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I+am+Temesgen+Geta;Computer+Science+Student;Full+Stack+Development+Explorer;AI+%26+Cybersecurity+Enthusiast;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=00FF88&center=false&vCenter=true&width=650&height=70&lines=👋+Hello%2C+I+am+Temesgen+Geta;💻+A+Computer+Science+Student;🚀+Full+Stack+Development+Explorer;🔥+Always+Learning+%26+Building" />
 </p>
 
 
-
-<h2 align="center" style="color:#00FF88;">💚 Matrix Mode</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YJ5OlVLZ2QNl6/giphy.gif" width="400"/>
-</p>
 
 ---
 ## 🛠️ Skills & Tools
