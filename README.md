@@ -32,6 +32,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&langs_count=10&bg_color=0D1117&title_color=00FF99&text_color=ADBAC7&icon_color=00FF99&hide_border=true" alt="Top Langs" />
   
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<img src="https://i.pinimg.com/originals/8c/9b/75/8c9b758eb2c10f89abbf48dfecb61849.gif" width="280"/>
   
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)<br/>
 
