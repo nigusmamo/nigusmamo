@@ -22,7 +22,11 @@
 </style>
 
  <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"
+    style="transition:0.3s; filter:drop-shadow(0 0 0px #00eaff);"
+       onmouseover="this.style.transform='scale(1.25)'; this.style.filter='drop-shadow(0 0 10px #00eaff)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 0px #00eaff)';" />
+   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/> 
