@@ -9,18 +9,6 @@
 --- 
 ## 🛠️ Skills & Tools  
 
-
-<style>
-.icon {
-  transition: 0.25s ease-in-out;
-}
-
-.icon:hover {
-  transform: scale(1.25);
-  filter: drop-shadow(0 0 8px #00eaff);
-}
-</style>
-
  <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"
     style="transition:0.3s; filter:drop-shadow(0 0 0px #00eaff);"
