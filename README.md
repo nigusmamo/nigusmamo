@@ -37,7 +37,7 @@
 ---
 
 ### 🏆 Featured Projects
-
+ 
 | Project | Description | Tech Used |
 |----------|--------------|-----------|
 | 🧮 **GUI Calculator** | A simple, user-friendly calculator app with a Python GUI | Python (Tkinter) |
