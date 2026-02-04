@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="65" height="65"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="65" height="65"/>
 </p>
@@ -32,29 +32,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)<br/>
 
 </p> 
-
----
-
-### 🏆 Featured Projects
- 
-| Project | Description | Tech Used |
-|----------|--------------|-----------| 
-| 🧮 **GUI Calculator** | A simple, user-friendly calculator app with a Python GUI | Python (Tkinter) |
-| 🚗 **Car Rental System** | Database-driven app for managing car rentals and returns | C++, PostgressSQL |
-| 👤 **Contact Management System** | DSA-based system for storing and managing contacts | C++ (Linked List, File Handling) |
-| 🎯 **YouTube Typing Trainer** | Web app to improve typing speed and accuracy by capturing YouTube caption | JavaScript, PostgreSQL |
-
----
-### ⚡️ Site Performance Metrics
-
-**GitHub Pages Link:** `https://github.com/nigusmamo/nigusmamo.github.io`
-
-| Metric | Badge |
-| :--- | :--- |
-| **Performance** | ![Performance](https://img.shields.io/badge/Performance-68-green?style=flat&logo=pagespeed&logoColor=white) |
-| **Accessibility** | ![Accessibility](https://img.shields.io/badge/Accessibility-96-green?style=flat&logo=pagespeed&logoColor=white) |
-| **Best Practices** | ![Best Practices](https://img.shields.io/badge/Best%20Practices-100-green?style=flat&logo=pagespeed&logoColor=white) |
-| **SEO** | ![SEO](https://img.shields.io/badge/SEO-100-green?style=flat&logo=pagespeed&logoColor=white) |
 ---
 
 > “Consistency beats talent!”
