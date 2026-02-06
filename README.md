@@ -30,4 +30,6 @@
 
 </p> 
 
+---
+
 > “Consistency beats talent!”
