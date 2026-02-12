@@ -1,6 +1,6 @@
 <P align="center">
   <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/banner.jpg" width="100%">  
-</P>    
+</P>     
  
 ---  
   
