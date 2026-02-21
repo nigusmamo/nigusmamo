@@ -2,7 +2,7 @@
   <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/banner.jpg" width="100%">   
 </P>     
       
----  
+---   
    
 ## 🛠️ Skills & Tools     
  
