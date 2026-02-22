@@ -1,10 +1,5 @@
-<P align="center"> 
-  <img src ="https://github.com/nigusmamo/nigusmamo/blob/main/banner.jpg" width="100%">   
-</P>     
-      
----   
-   
-## 🛠️ Skills & Tools     
+
+##  Skills & Tools     
  
  <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65" />
@@ -21,7 +16,7 @@
  
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p> 
   
