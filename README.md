@@ -41,8 +41,8 @@
 <p> 
   
 ![](https://nirzak-streak-stats.vercel.app/?user=nigusmamo&theme=neon&hide_border=true)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=0d1117&title_color=0f9d58&text_color=0f9d58&border_color=0f9d58" />
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&bg_color=black&title_color=0f9d58&text_color=0f9d58&border_color=black" />
 </p>
 </p> 
 
