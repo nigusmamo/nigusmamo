@@ -46,4 +46,4 @@
 
 ---
 
-> “Consistency beats talent!”
+> “Consistency beats Talent!”
