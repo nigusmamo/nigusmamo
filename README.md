@@ -1,6 +1,6 @@
 ##  Skills & Tools       
   
- <p align="left">  
+ <p align="right">  
   <p align="center">
   
 <!-- Programming Languages --> 
