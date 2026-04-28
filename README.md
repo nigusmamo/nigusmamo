@@ -1,5 +1,6 @@
 ## Skills & Tools
 
+<p align="left">
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
@@ -23,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 
+</p>
 </p>
 
 ---
