@@ -1,14 +1,75 @@
-## Skills & Tools
+<a href="https://pszostak.pl">
+  <img src="./assets/banner.png" width="100%" alt="Temesgen Geta - Full Stack Developer"/>
+</a>
+ 
+<br/>
+<img src="./assets/purple-divider.svg" width="100%"/> 
+
+<br/> 
+
+<h3 align="center">Hi, I'm Temesgen</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/hasura.svg" alt="hasura" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+  <strong>Computer Science</strong> student at <strong>University of Gondar</strong> • <em> Aspiring Full Stack Developer</em>
 </p>
 
----
+<p align="center">
+  I'm a passionate developer who loves building things that make life easier, more intresting and enjoyable.<br/>
+</p>
 
-> “Consistency beats Talent!”
+<br/>
+
+<h3 align="center">
+  <sub><img src="./assets/code-icon.svg" width="24" height="24"/></sub>&nbsp; Tech Stack
+</h3>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,js,ts,vue,vite,bun,graphql,apollo,cpp,python,sqlite,postgresql,docker,git,github,vercel&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
+</p>
+
+<br/>
+
+<h3 align="center">
+  <sub><img src="./assets/stats-icon.svg" width="24" height="24"/></sub>&nbsp; GitHub Stats
+</h3>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://pszostak-stats.vercel.app/api?username=nigusmamo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=Temesgen's%20GitHub%20Status" alt="GitHub Stats"/>
+ 
+  <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=nigusmamo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">
+  <sub><img src="./assets/connect-icon.svg" width="24" height="24"/></sub>&nbsp; Connect With Me
+</h3>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nigusmamo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/MamoNigus06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/thom3hari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  &nbsp;&nbsp;
+  <a href="tel:+251979450680"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact"/></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nigusmamo&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
+</div>
+
