@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,js,ts,nuxt,vue,vite,bun,graphql,apollo,jwt,cpp,python,sqlite,postgresql,docker,git,github,vercel,hasura&theme=dark&titles=true&perline=8" alt="Tech Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,js,ts,nuxt,vue,vite,bun,graphql,apollo,jwt,cpp,python,sqlite,postgresql,linux,docker,git,github,vercel,hasura&theme=dark&titles=true&perline=8" alt="Tech Stack"/>
 </p>
 
 <br/>
