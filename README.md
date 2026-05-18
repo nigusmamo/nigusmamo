@@ -1,8 +1,7 @@
 <!-- <a href="https://pszostak.pl">
   <img src="./assets/banner.png" width="100%" alt="Temesgen Geta - Full Stack Developer"/>
 </a> -->
- 
-<br/>
+
 <img src="./assets/purple-divider.svg" width="100%"/> 
 
 <br/> 
