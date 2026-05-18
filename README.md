@@ -1,6 +1,6 @@
-<a href="https://pszostak.pl">
+<!-- <a href="https://pszostak.pl">
   <img src="./assets/banner.png" width="100%" alt="Temesgen Geta - Full Stack Developer"/>
-</a>
+</a> -->
  
 <br/>
 <img src="./assets/purple-divider.svg" width="100%"/> 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,js,ts,nuxt,vue,vite,bun,graphql,apollo,jwt,cpp,python,sqlite,postgresql,linux,docker,git,github,vercel,hasura&theme=dark&titles=true&perline=8" alt="Tech Stack"/>
-</p>
+</p> 
 
 <br/>
 
