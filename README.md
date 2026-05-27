@@ -6,15 +6,12 @@
 
 <br/> 
 
-<h3 align="center">Hi, I'm Temesgen</h3>
+<h3 align="center">Hey, I'm Temesgen</h3>
 
 <p align="center">
-  <strong>Computer Science</strong> student at <strong>University of Gondar</strong> • <em> Aspiring Full Stack Developer</em>
+  <strong>Computer Science</strong> student at <strong>University of Gondar</strong> • <em>Full Stack Learner</em>
 </p>
 
-<p align="center">
-  I'm a passionate developer who loves building things that make life easier, more intresting and enjoyable.<br/>
-</p>
 
 <br/>
 
