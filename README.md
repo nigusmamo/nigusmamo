@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="Temesgen Geta - Full Stack Developer"/>
 </a> -->
 
-<img src="./assets/purple-divider.svg" width="100%"/> 
+<!-- <img src="./assets/purple-divider.svg" width="100%"/>  -->
 
 <br/> 
 
